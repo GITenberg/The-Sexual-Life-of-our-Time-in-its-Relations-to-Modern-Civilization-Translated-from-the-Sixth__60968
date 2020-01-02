@@ -1,5 +1,5 @@
 _repo: The-Sexual-Life-of-our-Time-in-its-Relations-to-Modern-Civilization-Translated-from-the-Sixth__60968
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Paul, Eden
@@ -11,12 +11,17 @@ contributor:
     gutenberg_agent_id: '389'
     url: http://www.gutenberg.org/2009/agents/389
     wikipedia: http://en.wikipedia.org/wiki/Eden_Paul
+covers:
+- cover_type: archival
+  image_path: 60968-h/images/cover.jpg
 creator:
   author:
     agent_name: Bloch, Iwan
     gutenberg_agent_id: '51207'
     url: http://www.gutenberg.org/2009/agents/51207
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60968#The-Sexual-Life-of-our-Time-in-its-Relations-to-Modern-Civilization-Translated-from-the-Sixth_
 gutenberg_issued: '2019-12-19'
 gutenberg_type: Text
 identifiers:
